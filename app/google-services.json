@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "665770892448",
+    "project_id": "assignmentrecipe-694db",
+    "storage_bucket": "assignmentrecipe-694db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665770892448:android:69fe732f19484eef533dc5",
+        "android_client_info": {
+          "package_name": "my.edu.utar.assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665770892448-jl6pk5mo32q1rm784f0vbqise7516j3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8WPKnR4dwlqrvkvGzCFy6ROgqRTX7WKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665770892448-jl6pk5mo32q1rm784f0vbqise7516j3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
